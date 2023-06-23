@@ -14,7 +14,7 @@ cd flask
 py -3 -m venv flaskApp
 
 ````
-Before you work on your project, activate the corresponding environment:
+Activate the corresponding environment:
 
 ````
 flaskApp\Scripts\activate
@@ -24,7 +24,7 @@ Within the activated environment, use the following command to install Flask:
 pip install Flask
 ````
 
-## How to run
+## run
 
 ````
 git clone https://github.com/hunnurjirao/ecommerce-backend-flask.git
@@ -39,6 +39,3 @@ flask run
 
 ````
 
-
-## Resources
-https://flask.palletsprojects.com/en/2.0.x/quickstart/
